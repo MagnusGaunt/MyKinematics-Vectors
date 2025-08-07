@@ -12,7 +12,7 @@
                 "-Wextra",
                 "-Wconversion",
                 "-Wsign-conversion",
-                "${file}",
+                "main.cpp",
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe"
             ],
